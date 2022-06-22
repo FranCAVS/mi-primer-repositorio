@@ -7,7 +7,7 @@ Este es mi primer commit en remoto en git papa
 ## Como configurar mi commit remoto
 Como configurar el commit en remoto:
 
-git remote add origin https://github.com/martinezger/mi-primer-repo.git
+git remote add origin (tu link))
 git pull origin main
 git branch -M main
 
